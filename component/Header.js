@@ -5,7 +5,7 @@ import { View, Text, TextInput, StyleSheet} from "react-native";
 const Headers = props => {
     return (
         <View style={styles.header}>
-
+            <Text>Pralhad Jadhav</Text>
         </View>
     )
 }
